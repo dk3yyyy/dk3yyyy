@@ -1,6 +1,6 @@
 # Joshua Nwachinemere
 
-**AI Engineer & Founder at VolyxAI** | joshua@volyxai.com
+**AI Engineer & Founder at VolyxAI** | josh0victor@outlook.com
 
 Building autonomous voice and operations AI for logistics and real estate businesses. Focused on LLM integration, RAG pipelines, agentic workflows, and voice-native systems. Open to collaborations, jobs, and founding engineer roles.
 
