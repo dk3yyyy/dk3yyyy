@@ -30,22 +30,22 @@
     <text x="550" y="118" fill="#3f4d6b">-----------------------------</text>
 
     <text x="550" y="154" fill="#7aa2f7">role</text>
-    <text x="665" y="154" fill="#d9e2f2">AI engineer</text>
+    <text x="665" y="154" fill="#d9e2f2">AI / ML engineer</text>
 
-    <text x="550" y="188" fill="#7aa2f7">building</text>
-    <text x="665" y="188" fill="#d9e2f2">VolyxAI, early stage</text>
+    <text x="550" y="188" fill="#7aa2f7">venture</text>
+    <text x="665" y="188" fill="#d9e2f2">VolyxAI</text>
 
-    <text x="550" y="222" fill="#7aa2f7">focus</text>
-    <text x="665" y="222" fill="#d9e2f2">AI + operations</text>
+    <text x="550" y="222" fill="#7aa2f7">ml</text>
+    <text x="665" y="222" fill="#d9e2f2">XGBoost / local LLMs</text>
 
-    <text x="550" y="256" fill="#7aa2f7">default</text>
-    <text x="665" y="256" fill="#d9e2f2">human approval</text>
+    <text x="550" y="256" fill="#7aa2f7">systems</text>
+    <text x="665" y="256" fill="#d9e2f2">retrieval / APIs / automation</text>
 
-    <text x="550" y="290" fill="#7aa2f7">tools</text>
-    <text x="665" y="290" fill="#d9e2f2">Python / TypeScript</text>
+    <text x="550" y="290" fill="#7aa2f7">languages</text>
+    <text x="665" y="290" fill="#d9e2f2">Python / TypeScript / SQL</text>
 
     <text x="550" y="324" fill="#7aa2f7">status</text>
-    <text x="665" y="324" fill="#d9e2f2">open to AI roles</text>
+    <text x="665" y="324" fill="#d9e2f2">open to AI engineering roles</text>
   </g>
 
   <rect x="550" y="348" width="42" height="8" rx="4" fill="#ff6b6b"/>

@@ -12,15 +12,9 @@ I build backend services, ML experiments, and automations that connect models to
 
 At VolyxAI, I'm designing controlled workflows for routine operations such as intake, validation, approvals, and handoffs. The company is early. The current focus is one useful workflow at a time, with people kept in the loop for consequential actions.
 
-I'm also improving [Noughtline](https://github.com/dk3yyyy/tic_tac), a real-time multiplayer game that has become my test bed for authentication, state recovery, server-side rules, payments, and failure handling.
+I'm also refining an end-to-end football prediction pipeline and a small local retrieval agent. [Noughtline](https://github.com/dk3yyyy/tic_tac) is my separate systems-engineering test bed for authentication, state recovery, server-side rules, payments, and failure handling.
 
 ## Selected builds
-
-### [Noughtline](https://github.com/dk3yyyy/tic_tac) · [live preview](https://noughtline.onrender.com)
-
-A React, Express, Socket.IO, and SQLite game with authenticated guest sessions and server-authoritative multiplayer. The backend validates moves and rewards, handles reconnects and forfeits, keeps an immutable currency ledger, and credits verified Paystack references once.
-
-`React` `Express` `Socket.IO` `SQLite` `Node.js test runner`
 
 ### [Football predictor](https://github.com/dk3yyyy/football_predictor)
 
@@ -33,6 +27,12 @@ An end-to-end football prediction project with data scrapers, feature engineerin
 A small local retrieval experiment for asking questions about restaurant reviews. It embeds the review set with Ollama, stores vectors in Chroma, retrieves the five closest records, and sends that context to a local Llama 3.2 model.
 
 `Python` `Ollama` `LangChain` `Chroma` `pandas`
+
+### [Noughtline](https://github.com/dk3yyyy/tic_tac) · [live preview](https://noughtline.onrender.com)
+
+A React, Express, Socket.IO, and SQLite game with authenticated guest sessions and server-authoritative multiplayer. The backend validates moves and rewards, handles reconnects and forfeits, keeps an immutable currency ledger, and credits verified Paystack references once.
+
+`React` `Express` `Socket.IO` `SQLite` `Node.js test runner`
 
 ### [VirusTotal Telegram bot](https://github.com/dk3yyyy/VirusTotal-Telegram-Bot)
 
