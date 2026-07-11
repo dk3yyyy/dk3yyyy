@@ -1,56 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="390" viewBox="0 0 1100 390" role="img" aria-labelledby="title desc">
-  <title id="title">Joshua Nwachinemere terminal profile</title>
-  <desc id="desc">A dark terminal window with an ASCII JN monogram and a concise neofetch-style profile.</desc>
-  <rect width="1100" height="390" rx="20" fill="#0b1020"/>
-  <rect x="1" y="1" width="1098" height="388" rx="19" fill="none" stroke="#26314d" stroke-width="2"/>
-  <rect x="1" y="1" width="1098" height="48" rx="19" fill="#121a2d"/>
-  <rect x="1" y="29" width="1098" height="20" fill="#121a2d"/>
-  <circle cx="28" cy="24" r="7" fill="#ff6b6b"/>
-  <circle cx="52" cy="24" r="7" fill="#ffd166"/>
-  <circle cx="76" cy="24" r="7" fill="#50d890"/>
-  <text x="550" y="30" text-anchor="middle" fill="#8d99ae" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">joshua@github: ~</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Joshua Nwachinemere neofetch-style terminal profile</title>
+  <desc id="desc">A dark terminal window with a privacy-conscious, limited-palette ASCII portrait on the left and verified profile fields on the right.</desc>
+  <rect width="1200" height="480" rx="20" fill="#090e1a"/>
+  <rect x="1" y="1" width="1198" height="478" rx="19" fill="none" stroke="#26314d" stroke-width="2"/>
+  <path d="M20 1h1160a19 19 0 0 1 19 19v30H1V20A19 19 0 0 1 20 1Z" fill="#121a2d"/>
+  <circle cx="28" cy="25" r="7" fill="#ff6b6b"/>
+  <circle cx="52" cy="25" r="7" fill="#ffd166"/>
+  <circle cx="76" cy="25" r="7" fill="#65d6ad"/>
+  <text x="600" y="31" text-anchor="middle" fill="#8d99ae" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">joshua@github: ~/profile</text>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700" fill="#65d6ad">
-    <text x="54" y="105">      ██╗███╗   ██╗</text>
-    <text x="54" y="136">      ██║████╗  ██║</text>
-    <text x="54" y="167">      ██║██╔██╗ ██║</text>
-    <text x="54" y="198">██   ██║██║╚██╗██║</text>
-    <text x="54" y="229">╚█████╔╝██║ ╚████║</text>
-    <text x="54" y="260"> ╚════╝ ╚═╝  ╚═══╝</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.4" font-weight="700">
+    <text x="52" y="89.0" xml:space="preserve"><tspan fill="#26354b">..............         ....,,:,,.......</tspan></text>
+    <text x="52" y="99.6" xml:space="preserve"><tspan fill="#26354b">............            ...,:</tspan><tspan fill="#38546a">i</tspan><tspan fill="#26354b">;:,......</tspan></text>
+    <text x="52" y="110.2" xml:space="preserve"><tspan fill="#26354b">..........  ..           ..,</tspan><tspan fill="#38546a">isri</tspan><tspan fill="#26354b">:,.....</tspan></text>
+    <text x="52" y="120.8" xml:space="preserve"><tspan fill="#26354b">..........      .:,.        </tspan><tspan fill="#38546a">;</tspan><tspan fill="#4f7882">2A</tspan><tspan fill="#38546a">si</tspan><tspan fill="#26354b">;,,...</tspan></text>
+    <text x="52" y="131.4" xml:space="preserve"><tspan fill="#26354b">........   .</tspan><tspan fill="#38546a">r</tspan><tspan fill="#4f7882">A5</tspan><tspan fill="#71a99a">MG</tspan><tspan fill="#a7d8b5">SS</tspan><tspan fill="#71a99a">GHHMh</tspan><tspan fill="#4f7882">35</tspan><tspan fill="#38546a">Xrr</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#71a99a">3</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">Xr</tspan><tspan fill="#26354b">;:,..</tspan></text>
+    <text x="52" y="142.0" xml:space="preserve"><tspan fill="#26354b">....... ,</tspan><tspan fill="#38546a">s</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">#B99S</tspan><tspan fill="#71a99a">GG</tspan><tspan fill="#a7d8b5">S9BBBB&amp;99S</tspan><tspan fill="#71a99a">MHh</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#38546a">Xr</tspan><tspan fill="#26354b">;:,.</tspan></text>
+    <text x="52" y="152.6" xml:space="preserve"><tspan fill="#26354b">...... </tspan><tspan fill="#38546a">;</tspan><tspan fill="#71a99a">hG</tspan><tspan fill="#a7d8b5">#99#</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#4f7882">52253</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#4f7882">3</tspan><tspan fill="#71a99a">hMG</tspan><tspan fill="#a7d8b5">9B99S</tspan><tspan fill="#71a99a">GHh</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">Xr</tspan><tspan fill="#26354b">;,.</tspan></text>
+    <text x="52" y="163.2" xml:space="preserve"><tspan fill="#26354b">....  </tspan><tspan fill="#38546a">s</tspan><tspan fill="#71a99a">HGG</tspan><tspan fill="#a7d8b5">#&amp;#</tspan><tspan fill="#4f7882">2AAAA25553</tspan><tspan fill="#71a99a">hH</tspan><tspan fill="#a7d8b5">S99###</tspan><tspan fill="#71a99a">GMh</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">si</tspan><tspan fill="#26354b">:,</tspan></text>
+    <text x="52" y="173.8" xml:space="preserve"><tspan fill="#26354b">... .</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#71a99a">hG</tspan><tspan fill="#a7d8b5">SSB9</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">ssrrX</tspan><tspan fill="#4f7882">X22553</tspan><tspan fill="#71a99a">MH</tspan><tspan fill="#a7d8b5">#B#S9S</tspan><tspan fill="#71a99a">HM</tspan><tspan fill="#4f7882">3A</tspan><tspan fill="#38546a">r;</tspan><tspan fill="#26354b">:</tspan></text>
+    <text x="52" y="184.4" xml:space="preserve"><tspan fill="#26354b">... </tspan><tspan fill="#38546a">s</tspan><tspan fill="#71a99a">HHG</tspan><tspan fill="#a7d8b5">#S&amp;</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#38546a">r;</tspan><tspan fill="#26354b">,.:</tspan><tspan fill="#38546a">irs</tspan><tspan fill="#4f7882">X253</tspan><tspan fill="#71a99a">hH</tspan><tspan fill="#a7d8b5">#9BSSB#</tspan><tspan fill="#71a99a">GM</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#38546a">Xi</tspan><tspan fill="#26354b">;</tspan></text>
+    <text x="52" y="195.0" xml:space="preserve"><tspan fill="#26354b">.. ,</tspan><tspan fill="#4f7882">3</tspan><tspan fill="#71a99a">MGG</tspan><tspan fill="#a7d8b5">SBS</tspan><tspan fill="#38546a">i</tspan><tspan fill="#26354b">;::,:</tspan><tspan fill="#38546a">;;;r</tspan><tspan fill="#4f7882">A53</tspan><tspan fill="#71a99a">hH</tspan><tspan fill="#a7d8b5">S#9B</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">9B</tspan><tspan fill="#71a99a">GH</tspan><tspan fill="#4f7882">3A</tspan><tspan fill="#38546a">si</tspan></text>
+    <text x="52" y="205.6" xml:space="preserve"><tspan fill="#26354b">...</tspan><tspan fill="#38546a">X</tspan><tspan fill="#71a99a">hH</tspan><tspan fill="#a7d8b5">S</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">S@</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#38546a">i</tspan><tspan fill="#26354b">;:,,:;::</tspan><tspan fill="#38546a">iX</tspan><tspan fill="#4f7882">XA23</tspan><tspan fill="#71a99a">MH</tspan><tspan fill="#a7d8b5">#&amp;#</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">99</tspan><tspan fill="#71a99a">GM</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">Xr</tspan></text>
+    <text x="52" y="216.2" xml:space="preserve"><tspan fill="#26354b">. :</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">9S</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">#&amp;</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">i</tspan><tspan fill="#26354b">;::;:,.,</tspan><tspan fill="#38546a">irss</tspan><tspan fill="#4f7882">23</tspan><tspan fill="#71a99a">MG</tspan><tspan fill="#a7d8b5">#B&amp;SS9S</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#4f7882">3A</tspan><tspan fill="#38546a">s</tspan></text>
+    <text x="52" y="226.8" xml:space="preserve"><tspan fill="#26354b">..</tspan><tspan fill="#4f7882">A3</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">9</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">SB9</tspan><tspan fill="#38546a">s;</tspan><tspan fill="#26354b">;</tspan><tspan fill="#38546a">i</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#4f7882">3</tspan><tspan fill="#38546a">X</tspan><tspan fill="#26354b">::</tspan><tspan fill="#38546a">ir</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#71a99a">hMhhhG</tspan><tspan fill="#a7d8b5">9&amp;9S99</tspan><tspan fill="#71a99a">Gh</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">X</tspan></text>
+    <text x="52" y="237.4" xml:space="preserve"><tspan fill="#26354b"> :</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#71a99a">hG</tspan><tspan fill="#a7d8b5">9</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">S&amp;</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#38546a">ir</tspan><tspan fill="#26354b">:,</tspan><tspan fill="#38546a">X</tspan><tspan fill="#71a99a">hh</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">i</tspan><tspan fill="#26354b">,</tspan><tspan fill="#38546a">i</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#71a99a">Hh</tspan><tspan fill="#38546a">sr</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#a7d8b5">S#&amp;B</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">#9S</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#4f7882">5A</tspan></text>
+    <text x="52" y="248.0" xml:space="preserve"><tspan fill="#26354b"> ,</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">#9SS&amp;S</tspan><tspan fill="#38546a">r</tspan><tspan fill="#4f7882">333</tspan><tspan fill="#a7d8b5">9</tspan><tspan fill="#71a99a">HM</tspan><tspan fill="#4f7882">3</tspan><tspan fill="#38546a">;</tspan><tspan fill="#26354b">.</tspan><tspan fill="#38546a">s</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">#</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#38546a">r</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#a7d8b5">S</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">BB&amp;B</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">#9S</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#4f7882">3A</tspan></text>
+    <text x="52" y="258.6" xml:space="preserve"><tspan fill="#26354b"> :</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">##S9&amp;</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#38546a">s</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">i</tspan><tspan fill="#26354b">;</tspan><tspan fill="#4f7882">55A</tspan><tspan fill="#38546a">ri</tspan><tspan fill="#26354b">:</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">9</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#38546a">X</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#71a99a">3</tspan><tspan fill="#4f7882">3</tspan><tspan fill="#a7d8b5">S9B&amp;</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">#9#</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#4f7882">3A</tspan></text>
+    <text x="52" y="269.2" xml:space="preserve"><tspan fill="#26354b"> ,</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">#</tspan><tspan fill="#71a99a">GG</tspan><tspan fill="#a7d8b5">B&amp;</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">i</tspan><tspan fill="#26354b">, .:</tspan><tspan fill="#38546a">r</tspan><tspan fill="#26354b">;,:,</tspan><tspan fill="#38546a">i</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#a7d8b5">#S</tspan><tspan fill="#4f7882">3AA25</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">9&amp;#</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">9#</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#4f7882">32</tspan></text>
+    <text x="52" y="279.8" xml:space="preserve"><tspan fill="#26354b">.;</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">SSSB&amp;</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#26354b">;. ,,. ,,.:</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#a7d8b5">#9</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#4f7882">22AA</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#a7d8b5">9&amp;9S#S</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#4f7882">32</tspan></text>
+    <text x="52" y="290.4" xml:space="preserve"><tspan fill="#26354b">;</tspan><tspan fill="#38546a">i</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#71a99a">M3G</tspan><tspan fill="#a7d8b5">#&amp;&amp;</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#38546a">i</tspan><tspan fill="#26354b">,   .,:, ,</tspan><tspan fill="#38546a">s</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">9S</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#38546a">X</tspan><tspan fill="#4f7882">23</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">#@BSSS</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#4f7882">5A</tspan></text>
+    <text x="52" y="301.0" xml:space="preserve"><tspan fill="#38546a">sX</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#71a99a">MhG</tspan><tspan fill="#a7d8b5">#&amp;&amp;</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#38546a">r</tspan><tspan fill="#26354b">:  ,</tspan><tspan fill="#38546a">r</tspan><tspan fill="#26354b">;;</tspan><tspan fill="#38546a">r</tspan><tspan fill="#26354b">;:</tspan><tspan fill="#38546a">X</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">S#</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#38546a">X</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#a7d8b5">S9&amp;&amp;</tspan><tspan fill="#71a99a">GGGM</tspan><tspan fill="#4f7882">2A</tspan></text>
+    <text x="52" y="311.6" xml:space="preserve"><tspan fill="#38546a">ir</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#71a99a">hHG</tspan><tspan fill="#a7d8b5">#&amp;&amp;</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#38546a">si</tspan><tspan fill="#26354b">:.:: ;</tspan><tspan fill="#38546a">XiX</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">BS</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#4f7882">3XA</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">S9&amp;@S</tspan><tspan fill="#71a99a">MGh</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#38546a">s</tspan></text>
+    <text x="52" y="322.2" xml:space="preserve"><tspan fill="#38546a">;i</tspan><tspan fill="#4f7882">A3</tspan><tspan fill="#71a99a">MH</tspan><tspan fill="#a7d8b5">#&amp;@</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#38546a">sri</tspan><tspan fill="#26354b">:.  ,</tspan><tspan fill="#38546a">s</tspan><tspan fill="#4f7882">2X5</tspan><tspan fill="#a7d8b5">S</tspan><tspan fill="#71a99a">Gh</tspan><tspan fill="#4f7882">353</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">SB@&amp;#</tspan><tspan fill="#4f7882">3</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#4f7882">3X</tspan><tspan fill="#38546a">r</tspan></text>
+    <text x="52" y="332.8" xml:space="preserve"><tspan fill="#26354b">;</tspan><tspan fill="#38546a">iX</tspan><tspan fill="#4f7882">3</tspan><tspan fill="#71a99a">MM</tspan><tspan fill="#a7d8b5">#9&amp;B</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">ssX</tspan><tspan fill="#4f7882">X2AA</tspan><tspan fill="#38546a">X</tspan><tspan fill="#4f7882">A22</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">###SSS9&amp;&amp;B#</tspan><tspan fill="#71a99a">h3</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">si</tspan></text>
+    <text x="52" y="343.4" xml:space="preserve"><tspan fill="#26354b">:;</tspan><tspan fill="#38546a">s</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#71a99a">3</tspan><tspan fill="#4f7882">3</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">99@</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#4f7882">AA2</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">S</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#38546a">;</tspan><tspan fill="#26354b">;:</tspan><tspan fill="#38546a">i</tspan><tspan fill="#4f7882">25</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">9B9B9B&amp;&amp;B</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#4f7882">55A</tspan><tspan fill="#38546a">r</tspan><tspan fill="#26354b">;</tspan></text>
+    <text x="52" y="354.0" xml:space="preserve"><tspan fill="#26354b">,:</tspan><tspan fill="#38546a">iX</tspan><tspan fill="#4f7882">55</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">9#@#</tspan><tspan fill="#4f7882">A222A</tspan><tspan fill="#38546a">r</tspan><tspan fill="#26354b">,:;;</tspan><tspan fill="#38546a">is</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#a7d8b5">9##9B&amp;&amp;B#</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#4f7882">2A</tspan><tspan fill="#38546a">si</tspan><tspan fill="#26354b">:</tspan></text>
+    <text x="52" y="364.6" xml:space="preserve"><tspan fill="#26354b">.,;</tspan><tspan fill="#38546a">r</tspan><tspan fill="#4f7882">A2</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#a7d8b5">#9#B</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#4f7882">55</tspan><tspan fill="#71a99a">3</tspan><tspan fill="#38546a">rrsrrir</tspan><tspan fill="#4f7882">3</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">S#9B&amp;&amp;B9S</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#38546a">Xr</tspan><tspan fill="#26354b">:,</tspan></text>
+    <text x="52" y="375.2" xml:space="preserve"><tspan fill="#26354b">.,,</tspan><tspan fill="#38546a">isX</tspan><tspan fill="#4f7882">3</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">#9B</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">S</tspan><tspan fill="#71a99a">h</tspan><tspan fill="#38546a">i</tspan><tspan fill="#26354b">,.,</tspan><tspan fill="#38546a">;ss</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">9B9&amp;B9S</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#38546a">Xr</tspan><tspan fill="#26354b">;,,</tspan></text>
+    <text x="52" y="385.8" xml:space="preserve"><tspan fill="#26354b">...:</tspan><tspan fill="#38546a">ir</tspan><tspan fill="#4f7882">A2</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">##</tspan><tspan fill="#4f7882">3A</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">#9</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">X</tspan><tspan fill="#4f7882">XAA5</tspan><tspan fill="#71a99a">G</tspan><tspan fill="#a7d8b5">9B9999S</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">sr</tspan><tspan fill="#26354b">;:,.</tspan></text>
+    <text x="52" y="396.4" xml:space="preserve"><tspan fill="#26354b">...,:</tspan><tspan fill="#38546a">;r</tspan><tspan fill="#4f7882">A5</tspan><tspan fill="#71a99a">H</tspan><tspan fill="#a7d8b5">S</tspan><tspan fill="#4f7882">3X</tspan><tspan fill="#71a99a">M</tspan><tspan fill="#a7d8b5">S999#9##999B9##</tspan><tspan fill="#71a99a">GM</tspan><tspan fill="#4f7882">5</tspan><tspan fill="#38546a">sr</tspan><tspan fill="#26354b">;:,..</tspan></text>
+    <text x="52" y="407.0" xml:space="preserve"><tspan fill="#26354b">....,:</tspan><tspan fill="#38546a">;s</tspan><tspan fill="#4f7882">X5</tspan><tspan fill="#71a99a">Mh</tspan><tspan fill="#38546a">i</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#71a99a">HH</tspan><tspan fill="#a7d8b5">S###9#S#9S</tspan><tspan fill="#71a99a">GGMh</tspan><tspan fill="#4f7882">2</tspan><tspan fill="#38546a">si</tspan><tspan fill="#26354b">:,,...</tspan></text>
+    <text x="52" y="417.6" xml:space="preserve"><tspan fill="#26354b">.....,,;</tspan><tspan fill="#38546a">rs</tspan><tspan fill="#4f7882">A3</tspan><tspan fill="#38546a">Xi</tspan><tspan fill="#4f7882">23</tspan><tspan fill="#71a99a">hMM</tspan><tspan fill="#4f7882">55</tspan><tspan fill="#71a99a">hhM</tspan><tspan fill="#4f7882">3XX32</tspan><tspan fill="#38546a">Xr;</tspan><tspan fill="#26354b">:,.....</tspan></text>
+    <text x="52" y="428.2" xml:space="preserve"><tspan fill="#26354b">......,,:</tspan><tspan fill="#38546a">irs</tspan><tspan fill="#4f7882">A</tspan><tspan fill="#38546a">risX</tspan><tspan fill="#4f7882">X</tspan><tspan fill="#38546a">sssXXs;</tspan><tspan fill="#26354b">::</tspan><tspan fill="#38546a">sri</tspan><tspan fill="#26354b">;:,......</tspan></text>
+    <text x="52" y="438.8" xml:space="preserve"><tspan fill="#26354b">........,:;</tspan><tspan fill="#38546a">irr</tspan><tspan fill="#26354b">:;</tspan><tspan fill="#38546a">;iirrrr</tspan><tspan fill="#26354b">;,,,</tspan><tspan fill="#38546a">;</tspan><tspan fill="#26354b">;:,........</tspan></text>
   </g>
-  <text x="66" y="306" fill="#d9e2f2" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">$ build --useful --testable</text>
-  <text x="66" y="335" fill="#7484a3" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">AI systems, ML experiments, workflows</text>
+  <text x="52" y="460" fill="#7484a3" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">portrait.txt · 39 × 34 · local static render</text>
 
-  <line x1="500" y1="82" x2="500" y2="345" stroke="#26314d" stroke-width="2"/>
+  <line x1="512" y1="76" x2="512" y2="449" stroke="#26314d" stroke-width="2"/>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">
-    <text x="550" y="92" fill="#7aa2f7" font-weight="700">joshua</text>
-    <text x="624" y="92" fill="#8d99ae">@</text>
-    <text x="645" y="92" fill="#65d6ad" font-weight="700">dk3yyyy</text>
-    <text x="550" y="118" fill="#3f4d6b">-----------------------------</text>
-
-    <text x="550" y="154" fill="#7aa2f7">role</text>
-    <text x="665" y="154" fill="#d9e2f2">AI engineer</text>
-
-    <text x="550" y="188" fill="#7aa2f7">building</text>
-    <text x="665" y="188" fill="#d9e2f2">VolyxAI, early stage</text>
-
-    <text x="550" y="222" fill="#7aa2f7">focus</text>
-    <text x="665" y="222" fill="#d9e2f2">AI + operations</text>
-
-    <text x="550" y="256" fill="#7aa2f7">default</text>
-    <text x="665" y="256" fill="#d9e2f2">human approval</text>
-
-    <text x="550" y="290" fill="#7aa2f7">tools</text>
-    <text x="665" y="290" fill="#d9e2f2">Python / TypeScript</text>
-
-    <text x="550" y="324" fill="#7aa2f7">status</text>
-    <text x="665" y="324" fill="#d9e2f2">open to AI roles</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">
+    <text x="560" y="91" fill="#7aa2f7" font-weight="700">joshua</text>
+    <text x="625" y="91" fill="#8d99ae">@</text>
+    <text x="645" y="91" fill="#65d6ad" font-weight="700">dk3yyyy</text>
+    <text x="560" y="118" fill="#3f4d6b">────────────────────────────────────</text>
+    <text x="560" y="151" fill="#7aa2f7">role</text>
+    <text x="690" y="151" fill="#d9e2f2">AI engineer</text>
+    <text x="560" y="182" fill="#7aa2f7">host</text>
+    <text x="690" y="182" fill="#d9e2f2">VolyxAI · early stage</text>
+    <text x="560" y="213" fill="#7aa2f7">focus</text>
+    <text x="690" y="213" fill="#d9e2f2">AI + operations</text>
+    <text x="560" y="244" fill="#7aa2f7">languages</text>
+    <text x="690" y="244" fill="#d9e2f2">Python · JavaScript · TypeScript · SQL</text>
+    <text x="560" y="275" fill="#7aa2f7">backend</text>
+    <text x="690" y="275" fill="#d9e2f2">FastAPI · Express · Socket.IO</text>
+    <text x="560" y="306" fill="#7aa2f7">automation</text>
+    <text x="690" y="306" fill="#d9e2f2">n8n · approvals · retries</text>
+    <text x="560" y="337" fill="#7aa2f7">shipping</text>
+    <text x="690" y="337" fill="#d9e2f2">Docker · GitHub Actions · Azure</text>
+    <text x="560" y="368" fill="#7aa2f7">default</text>
+    <text x="690" y="368" fill="#d9e2f2">human approval</text>
+    <text x="560" y="399" fill="#7aa2f7">status</text>
+    <text x="690" y="399" fill="#d9e2f2">open to AI Engineer roles</text>
   </g>
 
-  <rect x="550" y="348" width="42" height="8" rx="4" fill="#ff6b6b"/>
-  <rect x="600" y="348" width="42" height="8" rx="4" fill="#ffd166"/>
-  <rect x="650" y="348" width="42" height="8" rx="4" fill="#65d6ad"/>
-  <rect x="700" y="348" width="42" height="8" rx="4" fill="#7aa2f7"/>
-  <rect x="750" y="348" width="42" height="8" rx="4" fill="#bb9af7"/>
+  <g aria-hidden="true">
+    <rect x="560" y="438" width="42" height="8" rx="4" fill="#ff6b6b"/>
+    <rect x="610" y="438" width="42" height="8" rx="4" fill="#ffd166"/>
+    <rect x="660" y="438" width="42" height="8" rx="4" fill="#65d6ad"/>
+    <rect x="710" y="438" width="42" height="8" rx="4" fill="#7aa2f7"/>
+    <rect x="760" y="438" width="42" height="8" rx="4" fill="#bb9af7"/>
+    <rect x="810" y="438" width="42" height="8" rx="4" fill="#d9e2f2"/>
+  </g>
 </svg>
