@@ -49,6 +49,7 @@ data          SQLite · SQLAlchemy
 shipping      Docker · GitHub Actions · Azure
 ```
 
+
 ## Contact
 
 [Email](mailto:josh0victor@outlook.com) · [LinkedIn](https://www.linkedin.com/in/joshua-nwachinemere/) · [VolyxAI](https://volyxai.com) · [GitHub](https://github.com/dk3yyyy)
