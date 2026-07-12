@@ -12,8 +12,6 @@ I build backend services, ML experiments, and automations that connect models to
 
 At VolyxAI, I'm designing controlled workflows for routine operations such as intake, validation, approvals, and handoffs. The company is early. The current focus is one useful workflow at a time, with people kept in the loop for consequential actions.
 
-I'm also refining an end-to-end football prediction pipeline and a small local retrieval agent. [Noughtline](https://github.com/dk3yyyy/tic_tac) is my separate systems-engineering test bed for authentication, state recovery, server-side rules, payments, and failure handling.
-
 ## Selected builds
 
 ### [Football predictor](https://github.com/dk3yyyy/football_predictor)
@@ -53,10 +51,6 @@ shipping      Docker · GitHub Actions · Azure
 
 ## Now
 
-- Building VolyxAI around controlled AI workflows, not hands-off autonomy.
-- Hardening Noughtline's multiplayer lifecycle and deployment path.
-- Looking for AI Engineer roles where I can work close to the product and the code.
-
 ## Contact
 
-[Email](mailto:joshua-n-ai@proton.me) · [LinkedIn](https://www.linkedin.com/in/joshua-nwachinemere/) · [VolyxAI](https://volyxai.com) · [GitHub](https://github.com/dk3yyyy)
+[Email](mailto:josh0victor@outlook.com) · [LinkedIn](https://www.linkedin.com/in/joshua-nwachinemere/) · [VolyxAI](https://volyxai.com) · [GitHub](https://github.com/dk3yyyy)
