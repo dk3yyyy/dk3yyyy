@@ -38,7 +38,7 @@ An evaluation-focused ML experiment covering automated data collection, feature 
 
 ## Let's build something useful
 
-I'm based in Lagos and open to **AI Engineer** and **ML Engineer** opportunities, including UK roles where sponsorship or relocation can be discussed.
+I'm open to **AI Engineer** and **ML Engineer** opportunities, including UK roles where sponsorship or relocation can be discussed.
 
 [Portfolio](https://dk3yyyy.github.io/joshua-portfolio/) · [Email](mailto:josh0victor@outlook.com) · [LinkedIn](https://www.linkedin.com/in/joshua-nwachinemere/) · [VolyxAI](https://volyxai.com)
 
