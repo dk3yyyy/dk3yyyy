@@ -6,7 +6,7 @@
 
 I'm **Joshua Nwachinemere**, an AI engineer who builds practical systems around capable models: reliable backends, controlled workflows, evaluation, and interfaces people can actually use.
 
-My public work spans multimodal assistants, API-driven data products, ML evaluation, real-time systems, and automation. I mainly work in Python and JavaScript/TypeScript. I keep system boundaries visible, add tests, and document decisions so someone else can take over.
+My public work spans multimodal assistants, API-driven data products, ML evaluation, real-time systems, and automation. **Python is my primary engineering language**, especially for AI systems, backend services, data workflows, and evaluation. For product surfaces outside my core stack, I use AI-assisted development while keeping system boundaries visible, testing behavior, and documenting decisions.
 
 I'm also building [VolyxAI](https://volyxai.com), exploring focused workflows for intake, validation, approval, and handoff. It is one part of my engineering work—not the whole story—and consequential actions stay with people.
 
@@ -46,7 +46,7 @@ I'm based in Lagos and open to **AI Engineer** and **ML Engineer** opportunities
 
 - **AI systems:** model integration, multimodal workflows, retrieval, and structured outputs
 - **ML practice:** evaluation design, calibration, feature engineering, and classical ML
-- **Backend:** FastAPI, REST APIs, webhooks, async Python, Express, and Socket.IO
+- **Backend:** FastAPI, REST APIs, webhooks, async Python, and service integration
 - **Automation:** n8n, validation, approval gates, retries, and idempotency
-- **Data and UI:** SQL, SQLite, React, TypeScript, and responsive interfaces
+- **Data and product delivery:** SQL, SQLite, API integration, and AI-assisted web interfaces
 - **Shipping:** Docker, GitHub Actions, Playwright, testing, and Azure
