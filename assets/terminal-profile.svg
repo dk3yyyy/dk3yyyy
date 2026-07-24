@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="390" viewBox="0 0 1100 390" role="img" aria-labelledby="title desc">
-  <title id="title">Joshua Nwachinemere terminal profile</title>
-  <desc id="desc">A dark terminal window with an ASCII JN monogram and a concise neofetch-style profile.</desc>
+  <title id="title">Joshua Nwachinemere — AI engineer</title>
+  <desc id="desc">A dark terminal window with an ASCII JN monogram and a concise profile focused on practical, controlled AI systems.</desc>
   <rect width="1100" height="390" rx="20" fill="#0b1020"/>
   <rect x="1" y="1" width="1098" height="388" rx="19" fill="none" stroke="#26314d" stroke-width="2"/>
   <rect x="1" y="1" width="1098" height="48" rx="19" fill="#121a2d"/>
@@ -18,39 +18,27 @@
     <text x="54" y="229">╚█████╔╝██║ ╚████║</text>
     <text x="54" y="260"> ╚════╝ ╚═╝  ╚═══╝</text>
   </g>
-  <text x="66" y="306" fill="#d9e2f2" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">$ build --useful --testable</text>
-  <text x="66" y="335" fill="#7484a3" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">AI systems, ML experiments, workflows</text>
+  <text x="66" y="306" fill="#d9e2f2" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">$ build --practical --verifiable</text>
+  <text x="66" y="335" fill="#7484a3" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Models connected to reliable systems</text>
 
   <line x1="500" y1="82" x2="500" y2="345" stroke="#26314d" stroke-width="2"/>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">
-    <text x="550" y="92" fill="#7aa2f7" font-weight="700">joshua</text>
-    <text x="624" y="92" fill="#8d99ae">@</text>
-    <text x="645" y="92" fill="#65d6ad" font-weight="700">dk3yyyy</text>
-    <text x="550" y="118" fill="#3f4d6b">-----------------------------</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="550" y="102" fill="#7aa2f7" font-size="25" font-weight="700">joshua</text>
+    <text x="650" y="102" fill="#8d99ae" font-size="25">@</text>
+    <text x="680" y="102" fill="#65d6ad" font-size="25" font-weight="700">dk3yyyy</text>
+    <text x="550" y="130" fill="#3f4d6b" font-size="22">-----------------------------</text>
 
-    <text x="550" y="154" fill="#7aa2f7">role</text>
-    <text x="665" y="154" fill="#d9e2f2">AI / ML engineer</text>
-
-    <text x="550" y="188" fill="#7aa2f7">venture</text>
-    <text x="665" y="188" fill="#d9e2f2">VolyxAI</text>
-
-    <text x="550" y="222" fill="#7aa2f7">ml</text>
-    <text x="665" y="222" fill="#d9e2f2">XGBoost / local LLMs</text>
-
-    <text x="550" y="256" fill="#7aa2f7">systems</text>
-    <text x="665" y="256" fill="#d9e2f2">retrieval / APIs / automation</text>
-
-    <text x="550" y="290" fill="#7aa2f7">languages</text>
-    <text x="665" y="290" fill="#d9e2f2">Python / TypeScript / SQL</text>
-
-    <text x="550" y="324" fill="#7aa2f7">status</text>
-    <text x="665" y="324" fill="#d9e2f2">open to AI engineering roles</text>
+    <text x="550" y="174" fill="#d9e2f2" font-size="27" font-weight="700">AI engineer</text>
+    <text x="550" y="216" fill="#d9e2f2" font-size="24">practical AI systems</text>
+    <text x="550" y="258" fill="#d9e2f2" font-size="24">multimodal / APIs / workflows</text>
+    <text x="550" y="300" fill="#d9e2f2" font-size="24">test / validate / human review</text>
+    <text x="550" y="342" fill="#65d6ad" font-size="24">open to AI / ML roles</text>
   </g>
 
-  <rect x="550" y="348" width="42" height="8" rx="4" fill="#ff6b6b"/>
-  <rect x="600" y="348" width="42" height="8" rx="4" fill="#ffd166"/>
-  <rect x="650" y="348" width="42" height="8" rx="4" fill="#65d6ad"/>
-  <rect x="700" y="348" width="42" height="8" rx="4" fill="#7aa2f7"/>
-  <rect x="750" y="348" width="42" height="8" rx="4" fill="#bb9af7"/>
+  <rect x="902" y="90" width="28" height="7" rx="3.5" fill="#ff6b6b"/>
+  <rect x="938" y="90" width="28" height="7" rx="3.5" fill="#ffd166"/>
+  <rect x="974" y="90" width="28" height="7" rx="3.5" fill="#65d6ad"/>
+  <rect x="1010" y="90" width="28" height="7" rx="3.5" fill="#7aa2f7"/>
+  <rect x="1046" y="90" width="28" height="7" rx="3.5" fill="#bb9af7"/>
 </svg>
