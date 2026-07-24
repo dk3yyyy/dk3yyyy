@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="./assets/terminal-profile.svg" width="100%" alt="Joshua Nwachinemere — AI engineer building practical, controlled AI systems" />
+  <img src="./assets/system-route.svg" width="100%" alt="Joshua Nwachinemere — AI engineer connecting models to reliable, human-controlled systems" />
 </p>
 
-## `whoami`
+## About
 
-I'm **Joshua Nwachinemere**, an AI engineer and founder of [VolyxAI](https://volyxai.com). I build practical AI systems around reliable backends, controlled workflows, and human review, especially where models need to connect safely to real products and operations.
+I'm **Joshua Nwachinemere**, an AI engineer who builds practical systems around capable models: reliable backends, controlled workflows, evaluation, and interfaces people can actually use.
 
 My public work spans multimodal assistants, API-driven data products, ML evaluation, real-time systems, and automation. I mainly work in Python and JavaScript/TypeScript. I keep system boundaries visible, add tests, and document decisions so someone else can take over.
 
-At VolyxAI, I'm developing early-stage workflows for intake, validation, approval, and handoff. The work starts with one useful workflow at a time, and consequential actions stay with people.
+I'm also building [VolyxAI](https://volyxai.com), exploring focused workflows for intake, validation, approval, and handoff. It is one part of my engineering work—not the whole story—and consequential actions stay with people.
 
 ## Selected work
 

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Joshua Nwachinemere — AI engineer</title>
+  <desc id="desc">A systems map showing Joshua's work connecting multimodal input, context, models, tools, evaluation, and human judgment.</desc>
+  <defs>
+    <linearGradient id="route" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff694d"/><stop offset="1" stop-color="#8b72ff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1a2030" stroke-width="1"/></pattern>
+  </defs>
+
+  <rect width="1200" height="480" rx="28" fill="#090c13"/>
+  <rect x="1" y="1" width="1198" height="478" rx="27" fill="none" stroke="#252c3b" stroke-width="2"/>
+  <rect x="590" width="610" height="480" fill="url(#grid)" opacity=".55"/>
+  <path d="M590 0V480" stroke="#202737"/>
+
+  <rect x="52" y="50" width="6" height="52" rx="3" fill="#ff694d"/>
+  <text x="82" y="74" fill="#f4f6f9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="3">JOSHUA NWACHINEMERE</text>
+  <text x="82" y="101" fill="#8f9aae" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="2">LAGOS · OPEN TO AI / ML ROLES</text>
+
+  <text x="52" y="200" fill="#f6f7f9" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="900" letter-spacing="-3">AI ENGINEER</text>
+  <text x="54" y="264" fill="#cbd1dc" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="750" letter-spacing="-2">MODEL → SYSTEM</text>
+  <path d="M55 290H495" stroke="url(#route)" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="495" cy="290" r="9" fill="#8b72ff"/>
+
+  <text x="54" y="341" fill="#dfe3ea" font-family="Arial, Helvetica, sans-serif" font-size="21">I build the engineering around AI:</text>
+  <text x="54" y="371" fill="#9ca7b9" font-family="Arial, Helvetica, sans-serif" font-size="18">reliable backends · evaluation · human-controlled workflows</text>
+  <text x="54" y="428" fill="#6fdcb4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700" letter-spacing="1">BUILDING VOLYXAI  /  dk3yyyy</text>
+
+  <text x="632" y="52" fill="#6e7a90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">SYSTEM ROUTE / 01</text>
+
+  <g fill="none" stroke="#38445c" stroke-width="2">
+    <path d="M669 129H756Q778 129 778 151V220"/>
+    <path d="M669 196H756Q778 196 778 218"/>
+    <path d="M669 263H756Q778 263 778 241V220"/>
+    <path d="M778 220H862"/>
+    <path d="M934 220H1006"/>
+    <path d="M1078 220H1136"/>
+    <path d="M898 256V329"/>
+    <path d="M898 329H1042"/>
+    <path d="M898 329H754"/>
+  </g>
+  <path d="M778 220H1136" fill="none" stroke="url(#route)" stroke-width="5" stroke-linecap="round"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <g>
+      <rect x="625" y="104" width="98" height="50" rx="11" fill="#101622" stroke="#303a4d"/><circle cx="644" cy="129" r="5" fill="#56cfe1"/><text x="659" y="135" fill="#e2e7ef" font-size="14">SCREEN</text>
+      <rect x="625" y="171" width="98" height="50" rx="11" fill="#101622" stroke="#303a4d"/><circle cx="644" cy="196" r="5" fill="#56cfe1"/><text x="659" y="202" fill="#e2e7ef" font-size="14">VOICE</text>
+      <rect x="625" y="238" width="98" height="50" rx="11" fill="#101622" stroke="#303a4d"/><circle cx="644" cy="263" r="5" fill="#56cfe1"/><text x="659" y="269" fill="#e2e7ef" font-size="14">DATA</text>
+    </g>
+    <g>
+      <circle cx="778" cy="220" r="38" fill="#111827" stroke="#ff694d" stroke-width="2"/><text x="778" y="225" text-anchor="middle" fill="#f5f6f8" font-size="13" font-weight="700">CONTEXT</text>
+      <circle cx="898" cy="220" r="38" fill="#151329" stroke="#a678ff" stroke-width="2"/><text x="898" y="225" text-anchor="middle" fill="#f5f6f8" font-size="13" font-weight="700">MODEL</text>
+      <circle cx="1042" cy="220" r="38" fill="#111827" stroke="#7c6cff" stroke-width="2"/><text x="1042" y="225" text-anchor="middle" fill="#f5f6f8" font-size="13" font-weight="700">TOOLS</text>
+      <circle cx="1136" cy="220" r="26" fill="#55d6a9"/><path d="M1126 220l7 7 14-17" fill="none" stroke="#08130f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="1136" y="263" text-anchor="middle" fill="#91a59d" font-size="12">HUMAN</text>
+    </g>
+    <g>
+      <rect x="682" y="308" width="144" height="44" rx="10" fill="#101622" stroke="#303a4d"/><text x="754" y="335" text-anchor="middle" fill="#cbd3df" font-size="12">LOGS + TRACES</text>
+      <rect x="831" y="308" width="134" height="44" rx="10" fill="#101622" stroke="#303a4d"/><text x="898" y="335" text-anchor="middle" fill="#cbd3df" font-size="12">CHECKS + EVALS</text>
+      <rect x="976" y="308" width="132" height="44" rx="10" fill="#101622" stroke="#303a4d"/><text x="1042" y="335" text-anchor="middle" fill="#cbd3df" font-size="12">APPROVAL</text>
+    </g>
+  </g>
+  <text x="625" y="421" fill="#68758a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1">MULTIMODAL · APIs · EVALUATION · WORKFLOWS</text>
+</svg>
