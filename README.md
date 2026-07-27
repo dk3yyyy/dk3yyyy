@@ -12,13 +12,13 @@ I'm also building [VolyxAI](https://volyxai.com), exploring focused workflows fo
 
 ## Selected work
 
-### [Volyx Lens](https://github.com/dk3yyyy/volyx-lens)
+### [Volyx Lens](https://github.com/dk3yyyy/volyx-lens) · [live site](https://dk3yyyy.github.io/volyx-lens/)
 
 A privacy-oriented macOS AI assistant for screen, voice, meeting, and coding workflows. Built with Electron, JavaScript, and native Swift components, with provider routing, consent boundaries, tests, and a deliberately inspectable architecture.
 
 `Electron` `JavaScript` `Swift` `AI APIs` `GitHub Actions`
 
-### [Solana & Ethereum Wallet Analyzer](https://github.com/dk3yyyy/sol-eth-wallet-analyzer)
+### [Solana & Ethereum Wallet Analyzer](https://github.com/dk3yyyy/sol-eth-wallet-analyzer) · [live demo](https://chainscope-wallet-analyzer.onrender.com/)
 
 A read-only wallet analytics system combining asynchronous Python services, FastAPI, React/Vite, Telegram integration, and multiple blockchain data providers. The engineering work covers defensive API integration, portfolio data modelling, responsive product delivery, caching, and automated backend/browser verification.
 
