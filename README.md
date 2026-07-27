@@ -40,7 +40,7 @@ An evaluation-focused ML experiment covering automated data collection, feature 
 
 I'm open to **AI Engineer** and **ML Engineer** opportunities.
 
-[Portfolio](https://dk3yyyy.github.io/joshua-portfolio/) · [Email](mailto:josh0victor@outlook.com) · [LinkedIn](https://www.linkedin.com/in/joshua-nwachinemere/) · [VolyxAI](https://volyxai.com)
+[Portfolio](https://dk3yyyy.github.io/joshua-portfolio/) · [Email](mailto:josh0victor@outlook.com) · [LinkedIn](https://www.linkedin.com/in/joshua-nwachinemere/) · [ORCID](https://orcid.org/0009-0000-7388-3586) · [VolyxAI](https://volyxai.com)
 
 ## Engineering focus
 
