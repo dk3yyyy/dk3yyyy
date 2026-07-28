@@ -1,52 +1,95 @@
 <p align="center">
-  <img src="./assets/system-route.svg" width="100%" alt="Joshua Nwachinemere — AI engineer connecting models to reliable, human-controlled systems" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/volyx-terminal-mobile.svg" />
+    <img src="./assets/volyx-terminal.svg" width="100%" alt="Joshua Nwachinemere, AI Engineer, presented as an animated VOLYX OS terminal" />
+  </picture>
 </p>
 
-## About
+<p align="center">
+  <a href="https://dk3yyyy.github.io/joshua-nwachinemere/"><kbd>portfolio</kbd></a>&nbsp;
+  <a href="mailto:josh0victor@outlook.com"><kbd>email</kbd></a>&nbsp;
+  <a href="https://www.linkedin.com/in/joshua-nwachinemere/"><kbd>linkedin</kbd></a>&nbsp;
+  <a href="https://github.com/dk3yyyy"><kbd>github</kbd></a>
+</p>
 
-I'm **Joshua Nwachinemere**, an AI engineer who builds practical systems around capable models: reliable backends, controlled workflows, evaluation, and interfaces people can actually use.
+## `❯ cat about.txt`
 
-My public work spans multimodal assistants, API-driven data products, ML evaluation, real-time systems, and automation. **Python is my primary engineering language**, especially for AI systems, backend services, data workflows, and evaluation. For product surfaces outside my core stack, I use AI-assisted development while keeping system boundaries visible, testing behavior, and documenting decisions.
+I build the retrieval, multimodal input, provider integration, evaluation, and backend reliability layers that turn model capability into useful systems.
 
-I'm also building [VolyxAI](https://volyxai.com), exploring focused workflows for intake, validation, approval, and handoff. It is one part of my engineering work—not the whole story—and consequential actions stay with people.
+- **`focus`** RAG, context engineering, multimodal/voice AI, structured outputs, and evals
+- **`backend`** Python, FastAPI, asyncio, APIs, webhooks, caching, retries, and idempotency
+- **`providers`** OpenAI, Anthropic, Gemini, DeepSeek, and Azure AI Foundry
+- **`currently`** building VolyxAI and independently developing Volyx Lens
+- **`status`** open to AI Engineer and ML Engineer opportunities
 
-## Selected work
+Python is my primary engineering language. My JavaScript and native product work is AI-assisted, with architecture, security boundaries, testing, and verification kept explicit.
 
-### [Volyx Lens](https://github.com/dk3yyyy/volyx-lens) · [live site](https://dk3yyyy.github.io/volyx-lens/)
+## `❯ stack --list --verbose`
 
-A privacy-oriented macOS AI assistant for screen, voice, meeting, and coding workflows. Built with Electron, JavaScript, and native Swift components, with provider routing, consent boundaries, tests, and a deliberately inspectable architecture.
+**`# AI & ML`**
 
-`Electron` `JavaScript` `Swift` `AI APIs` `GitHub Actions`
+<kbd>Python</kbd> <kbd>OpenAI</kbd> <kbd>Anthropic</kbd> <kbd>Azure AI Foundry</kbd> <kbd>Deepgram</kbd> <kbd>scikit-learn</kbd> <kbd>XGBoost</kbd>
 
-### [Solana & Ethereum Wallet Analyzer](https://github.com/dk3yyyy/sol-eth-wallet-analyzer) · [live demo](https://chainscope-wallet-analyzer.onrender.com/)
+**`# Backend`**
 
-A read-only wallet analytics system combining asynchronous Python services, FastAPI, React/Vite, Telegram integration, and multiple blockchain data providers. The engineering work covers defensive API integration, portfolio data modelling, responsive product delivery, caching, and automated backend/browser verification.
+<kbd>FastAPI</kbd> <kbd>asyncio</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>SQLAlchemy</kbd> <kbd>SQLite</kbd> <kbd>Socket.IO</kbd>
 
-`Python` `FastAPI` `React` `Vite` `Telegram` `Docker`
+**`# Frontend / Apps`**
 
-### [Noughtline](https://github.com/dk3yyyy/Noughtline) · [live preview](https://noughtline.onrender.com)
+<kbd>React</kbd> <kbd>Vite</kbd> <kbd>Electron</kbd> <kbd>Swift</kbd> <kbd>JavaScript</kbd>
 
-A real-time multiplayer game with authenticated guest sessions and server-authoritative state. The backend validates moves and rewards, handles reconnects and forfeits, and maintains a persistent two-currency economy with ledgered transactions.
+**`# Delivery / Automation`**
 
-`React` `Express` `Socket.IO` `SQLite` `Node.js test runner`
+<kbd>Docker</kbd> <kbd>n8n</kbd> <kbd>GitHub Actions</kbd> <kbd>Playwright</kbd> <kbd>Azure</kbd>
 
-### [Football Predictor](https://github.com/dk3yyyy/football_predictor)
+## `❯ ls -la projects/`
 
-An evaluation-focused ML experiment covering automated data collection, feature engineering, XGBoost and Poisson models, chronological dataset splits, probability calibration, a FastAPI service, and a Streamlit interface. I use it to study pipeline design and honest evaluation rather than market it as a production forecasting service.
+### [`./volyx-lens`](https://github.com/dk3yyyy/volyx-lens) `Python · Electron · Swift`
 
-`Python` `XGBoost` `scikit-learn` `FastAPI` `Streamlit` `SQLAlchemy`
+> Privacy-oriented macOS assistant for screen, voice, meeting, and coding workflows. Includes provider routing, native capture components, Keychain-backed credentials, and explicit sharing controls. **[product site →](https://dk3yyyy.github.io/volyx-lens/)**
 
-## Let's build something useful
+### [`./sol-eth-wallet-analyzer`](https://github.com/dk3yyyy/sol-eth-wallet-analyzer) `FastAPI · React · Telegram`
 
-I'm open to **AI Engineer** and **ML Engineer** opportunities.
+> Read-only Solana and Ethereum analytics with bounded concurrency, caching, retries, partial-failure reporting, and automated API/browser verification. **[live demo →](https://chainscope-wallet-analyzer.onrender.com/)**
 
-[Portfolio](https://dk3yyyy.github.io/joshua-nwachinemere/) · [Email](mailto:josh0victor@outlook.com) · [LinkedIn](https://www.linkedin.com/in/joshua-nwachinemere/) · [ORCID](https://orcid.org/0009-0000-7388-3586) · [VolyxAI](https://volyxai.com)
+### [`./telegram-social-video-downloader`](https://github.com/dk3yyyy/telegram-social-video-downloader) `FastAPI · n8n · Telegram`
 
-## Engineering focus
+> Self-hosted workflow with signed requests, replay protection, rate limits, isolated media processing, and explicit service boundaries.
 
-- **AI systems:** model integration, multimodal workflows, retrieval, and structured outputs
-- **ML practice:** evaluation design, calibration, feature engineering, and classical ML
-- **Backend:** FastAPI, REST APIs, webhooks, async Python, and service integration
-- **Automation:** n8n, validation, approval gates, retries, and idempotency
-- **Data and product delivery:** SQL, SQLite, API integration, and AI-assisted web interfaces
-- **Shipping:** Docker, GitHub Actions, Playwright, testing, and Azure
+### [`./Noughtline`](https://github.com/dk3yyyy/Noughtline) `Node.js · Socket.IO · React`
+
+> Real-time multiplayer system with server-authoritative state, reconnect handling, one-time settlement, and a persistent transaction ledger. **[live preview →](https://noughtline.onrender.com/)**
+
+<details>
+<summary><code>./football_predictor [experiment]</code></summary>
+<br />
+
+[Football Predictor](https://github.com/dk3yyyy/football_predictor) explores chronological evaluation, feature engineering, XGBoost and Poisson models, calibration, FastAPI, and Streamlit. Its evaluated model did not beat the bookmaker baseline, so the evidence changed the decision instead of becoming a marketing claim.
+
+</details>
+
+## `❯ git log --merges --oneline upstream/`
+
+- **`openai-agents-python`** retry pre-response WebSocket server errors
+- **`calkit`** skip unrelated subproject checks for single-item runs
+
+- [`openai/openai-agents-python#3991`](https://github.com/openai/openai-agents-python/pull/3991) added bounded retry behavior and regression coverage for retryable and non-retryable WebSocket failures.
+- [`calkit/calkit#1028`](https://github.com/calkit/calkit/pull/1028) fixed pipeline selection without weakening relevant validation.
+
+Both changes were reviewed and merged upstream.
+
+## `❯ contact --info`
+
+- **`work with me`** AI engineering, ML engineering, model integration, and reliable automation
+- **`email`** [josh0victor@outlook.com](mailto:josh0victor@outlook.com)
+
+<p align="center">
+  <a href="https://github.com/dk3yyyy"><kbd>github.com/dk3yyyy</kbd></a>&nbsp;
+  <a href="https://dk3yyyy.github.io/joshua-nwachinemere/"><kbd>portfolio →</kbd></a>&nbsp;
+  <a href="https://www.linkedin.com/in/joshua-nwachinemere/"><kbd>linkedin →</kbd></a>&nbsp;
+  <a href="mailto:josh0victor@outlook.com"><kbd>email →</kbd></a>
+</p>
+
+<p align="center">
+  <sub><code>// built with intent. every system a decision.</code></sub>
+</p>
