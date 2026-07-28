@@ -44,27 +44,37 @@ Python is my primary engineering language. My JavaScript and native product work
 
 ## `❯ ls -la projects/`
 
-### [`./volyx-lens`](https://github.com/dk3yyyy/volyx-lens) `Python · Electron · Swift`
+### [`./volyx-lens`](https://github.com/dk3yyyy/volyx-lens)
+
+<sub><code>Python · Electron · Swift</code></sub>
 
 > Privacy-oriented macOS assistant for screen, voice, meeting, and coding workflows. Includes provider routing, native capture components, Keychain-backed credentials, and explicit sharing controls. **[product site →](https://dk3yyyy.github.io/volyx-lens/)**
 
-### [`./sol-eth-wallet-analyzer`](https://github.com/dk3yyyy/sol-eth-wallet-analyzer) `FastAPI · React · Telegram`
+### [`./sol-eth-wallet-analyzer`](https://github.com/dk3yyyy/sol-eth-wallet-analyzer)
+
+<sub><code>FastAPI · React · Telegram</code></sub>
 
 > Read-only Solana and Ethereum analytics with bounded concurrency, caching, retries, partial-failure reporting, and automated API/browser verification. **[live demo →](https://chainscope-wallet-analyzer.onrender.com/)**
 
-### [`./telegram-social-video-downloader`](https://github.com/dk3yyyy/telegram-social-video-downloader) `FastAPI · n8n · Telegram`
+### [`./telegram-social-video-downloader`](https://github.com/dk3yyyy/telegram-social-video-downloader)
+
+<sub><code>FastAPI · n8n · Telegram</code></sub>
 
 > Self-hosted workflow with signed requests, replay protection, rate limits, isolated media processing, and explicit service boundaries.
 
-### [`./Noughtline`](https://github.com/dk3yyyy/Noughtline) `Node.js · Socket.IO · React`
-
-> Real-time multiplayer system with server-authoritative state, reconnect handling, one-time settlement, and a persistent transaction ledger. **[live preview →](https://noughtline.onrender.com/)**
-
 <details>
-<summary><code>./football_predictor [experiment]</code></summary>
+<summary><code>❯ ls projects/secondary</code></summary>
 <br />
 
-[Football Predictor](https://github.com/dk3yyyy/football_predictor) explores chronological evaluation, feature engineering, XGBoost and Poisson models, calibration, FastAPI, and Streamlit. Its evaluated model did not beat the bookmaker baseline, so the evidence changed the decision instead of becoming a marketing claim.
+**[`./Noughtline`](https://github.com/dk3yyyy/Noughtline)**<br />
+<sub><code>Node.js · Socket.IO · React</code></sub>
+
+Real-time multiplayer system with server-authoritative state, reconnect handling, one-time settlement, and a persistent transaction ledger. **[live preview →](https://noughtline.onrender.com/)**
+
+**[`./football_predictor`](https://github.com/dk3yyyy/football_predictor) `[experiment]`**<br />
+<sub><code>Python · XGBoost · FastAPI · Streamlit</code></sub>
+
+Chronological evaluation, feature engineering, XGBoost and Poisson models, and calibration. Its evaluated model did not beat the bookmaker baseline, so the evidence changed the decision instead of becoming a marketing claim.
 
 </details>
 
