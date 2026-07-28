@@ -56,25 +56,25 @@ Python is my primary engineering language. My JavaScript and native product work
 
 > Read-only Solana and Ethereum analytics with bounded concurrency, caching, retries, partial-failure reporting, and automated API/browser verification. **[live demo →](https://chainscope-wallet-analyzer.onrender.com/)**
 
-### [`./telegram-social-video-downloader`](https://github.com/dk3yyyy/telegram-social-video-downloader)
+### [`./football_predictor`](https://github.com/dk3yyyy/football_predictor) `[experiment]`
 
-<sub><code>FastAPI · n8n · Telegram</code></sub>
+<sub><code>Python · XGBoost · FastAPI · Streamlit</code></sub>
 
-> Self-hosted workflow with signed requests, replay protection, rate limits, isolated media processing, and explicit service boundaries.
+> Leakage-resistant chronological evaluation with out-of-fold stacking, calibrated XGBoost and Poisson models, frozen holdouts, and explicit artifact provenance. Across 1,140 untouched EPL test matches, it beat naive baselines but not normalized bookmaker closing probabilities.
 
 <details>
 <summary><code>❯ ls projects/secondary</code></summary>
 <br />
 
+**[`./telegram-social-video-downloader`](https://github.com/dk3yyyy/telegram-social-video-downloader)**<br />
+<sub><code>FastAPI · n8n · Telegram</code></sub>
+
+Self-hosted workflow with signed requests, replay protection, rate limits, isolated media processing, and explicit service boundaries.
+
 **[`./Noughtline`](https://github.com/dk3yyyy/Noughtline)**<br />
 <sub><code>Node.js · Socket.IO · React</code></sub>
 
 Real-time multiplayer system with server-authoritative state, reconnect handling, one-time settlement, and a persistent transaction ledger. **[live preview →](https://noughtline.onrender.com/)**
-
-**[`./football_predictor`](https://github.com/dk3yyyy/football_predictor) `[experiment]`**<br />
-<sub><code>Python · XGBoost · FastAPI · Streamlit</code></sub>
-
-Chronological evaluation, feature engineering, XGBoost and Poisson models, and calibration. Its evaluated model did not beat the bookmaker baseline, so the evidence changed the decision instead of becoming a marketing claim.
 
 </details>
 
