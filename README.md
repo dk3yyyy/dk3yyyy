@@ -78,13 +78,13 @@ Real-time multiplayer system with server-authoritative state, reconnect handling
 
 </details>
 
-## `❯ git log --merges --oneline upstream/`
+## `❯ git log --oneline upstream/main`
 
-- **`faststream`** restore FastAPI 0.140 dependency compatibility
+- **`d9aa36f faststream`** restore FastAPI 0.140 dependency compatibility
 - **`openai-agents-python`** retry pre-response WebSocket server errors
 - **`calkit`** skip unrelated subproject checks for single-item runs
 
-- [`ag2ai/faststream#2961`](https://github.com/ag2ai/faststream/pull/2961) adapted FastStream's dependency layer to FastAPI's slotted `Dependant` model while preserving AsyncAPI metadata and adding regression coverage.
+- [`ag2ai/faststream#2961`](https://github.com/ag2ai/faststream/pull/2961) adapted FastStream's dependency layer to FastAPI's slotted `Dependant` model while preserving AsyncAPI metadata and adding regression coverage. It was squash-merged as `d9aa36f`.
 - [`openai/openai-agents-python#3991`](https://github.com/openai/openai-agents-python/pull/3991) added bounded retry behavior and regression coverage for retryable and non-retryable WebSocket failures.
 - [`calkit/calkit#1028`](https://github.com/calkit/calkit/pull/1028) fixed pipeline selection without weakening relevant validation.
 
