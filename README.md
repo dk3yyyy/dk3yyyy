@@ -46,7 +46,7 @@ Python is my primary engineering language. My JavaScript and native product work
 
 ### [`./volyx-lens`](https://github.com/dk3yyyy/volyx-lens)
 
-<sub><code>Python · Electron · Swift</code></sub>
+<sub><code>Electron · JavaScript · Swift</code></sub>
 
 > Privacy-oriented macOS assistant for screen, voice, meeting, and coding workflows. Includes provider routing, native capture components, Keychain-backed credentials, and explicit sharing controls. **[product site →](https://dk3yyyy.github.io/volyx-lens/)**
 
