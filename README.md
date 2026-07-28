@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/volyx-terminal-mobile.svg" />
+    <source media="(max-width: 480px)" srcset="./assets/volyx-terminal-mobile.svg" />
     <img src="./assets/volyx-terminal.svg" width="100%" alt="Joshua Nwachinemere, AI Engineer, presented as an animated VOLYX OS terminal" />
   </picture>
 </p>
