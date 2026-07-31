@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dk3yyyy.github.io/joshua-nwachinemere/"><kbd>portfolio</kbd></a>&nbsp;
+  <a href="https://joshua-nwachinemere.pages.dev"><kbd>portfolio</kbd></a>&nbsp;
   <a href="mailto:josh0victor@outlook.com"><kbd>email</kbd></a>&nbsp;
   <a href="https://www.linkedin.com/in/joshua-nwachinemere/"><kbd>linkedin</kbd></a>&nbsp;
   <a href="https://github.com/dk3yyyy"><kbd>github</kbd></a>
@@ -80,15 +80,28 @@ Real-time multiplayer system with server-authoritative state, reconnect handling
 
 ## `❯ git log --oneline upstream/main`
 
-- **`d9aa36f faststream`** restore FastAPI 0.140 dependency compatibility
+- **`pydantic-ai-harness`** report unexpected Code Mode session resets to the model
+- **`mellea`** add deterministic backend tracing coverage without requiring live Ollama
 - **`openai-agents-python`** retry pre-response WebSocket server errors
-- **`calkit`** skip unrelated subproject checks for single-item runs
+- **`d9aa36f faststream`** restore FastAPI 0.140 dependency compatibility
 
-- [`ag2ai/faststream#2961`](https://github.com/ag2ai/faststream/pull/2961) adapted FastStream's dependency layer to FastAPI's slotted `Dependant` model while preserving AsyncAPI metadata and adding regression coverage. It was squash-merged as `d9aa36f`.
+- [`pydantic/pydantic-ai-harness#503`](https://github.com/pydantic/pydantic-ai-harness/pull/503) made host-side Code Mode failures visible to the model after session reset, preserving retry context and adding regression coverage.
+- [`generative-computing/mellea#1471`](https://github.com/generative-computing/mellea/pull/1471) added deterministic tracing tests for async span duration, context propagation, token usage, span lifetime, and consecutive generations.
 - [`openai/openai-agents-python#3991`](https://github.com/openai/openai-agents-python/pull/3991) added bounded retry behavior and regression coverage for retryable and non-retryable WebSocket failures.
-- [`calkit/calkit#1028`](https://github.com/calkit/calkit/pull/1028) fixed pipeline selection without weakening relevant validation.
+- [`ag2ai/faststream#2961`](https://github.com/ag2ai/faststream/pull/2961) adapted FastStream's dependency layer to FastAPI's slotted `Dependant` model while preserving AsyncAPI metadata and adding regression coverage. It was squash-merged as `d9aa36f`.
 
-Both changes were reviewed and merged upstream.
+<details>
+<summary><code>❯ git log upstream/main -- more merged contributions</code></summary>
+<br />
+
+- [`apache/arrow-rs#10486`](https://github.com/apache/arrow-rs/pull/10486) made the JSON reader reject null children in non-nullable `ListView` and `LargeListView` fields, with regression coverage.
+- [`vega/altair#4089`](https://github.com/vega/altair/pull/4089) improved `JupyterChart` behavior when the optional `anywidget` dependency is unavailable and added focused tests.
+- [`faststream-community/faststream_fastapi#2`](https://github.com/faststream-community/faststream_fastapi/pull/2) preserved native FastAPI dependant fields and FastStream schema metadata after the slotted-dataclass migration.
+- [`calkit/calkit#1028`](https://github.com/calkit/calkit/pull/1028) skipped unrelated subproject preparation for single-item pipeline runs while preserving selected-stage validation.
+
+</details>
+
+All eight contributions are merged upstream.
 
 ## `❯ contact --info`
 
@@ -97,7 +110,7 @@ Both changes were reviewed and merged upstream.
 
 <p align="center">
   <a href="https://github.com/dk3yyyy"><kbd>github.com/dk3yyyy</kbd></a>&nbsp;
-  <a href="https://dk3yyyy.github.io/joshua-nwachinemere/"><kbd>portfolio →</kbd></a>&nbsp;
+  <a href="https://joshua-nwachinemere.pages.dev"><kbd>portfolio →</kbd></a>&nbsp;
   <a href="https://www.linkedin.com/in/joshua-nwachinemere/"><kbd>linkedin →</kbd></a>&nbsp;
   <a href="mailto:josh0victor@outlook.com"><kbd>email →</kbd></a>
 </p>
