@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>AI Engineer · RAG · Multimodal and voice systems · Evaluations · Reliable Python backends</strong>
+  <strong>AI Engineer building reliable RAG, multimodal, and voice systems in Python.</strong>
 </p>
 
 <p align="center">
@@ -25,22 +25,32 @@ I build the retrieval, context, provider-integration, evaluation, and backend re
 
 ## Featured work
 
-| Project | What it demonstrates | Evidence |
-| --- | --- | --- |
-| **[Volyx Lens](https://volyxlens.pages.dev/)** | A macOS AI interview and coding copilot with screen and voice context, provider routing, secure native components, and best-effort capture exclusion. | [Product](https://volyxlens.pages.dev/) · [Source](https://github.com/dk3yyyy/volyx-lens) |
-| **[Local Review Intelligence](https://github.com/dk3yyyy/local_AI_agent)** | Local-first RAG with adaptable CSV mapping, recoverable indexes, validated citations, and a measured semantic-vs-BM25 evaluation. | [Source](https://github.com/dk3yyyy/local_AI_agent) · [Architecture](https://github.com/dk3yyyy/local_AI_agent/blob/main/docs/architecture.md) · [Results](https://github.com/dk3yyyy/local_AI_agent/tree/main/evaluation/results/v0.2.0-ollama-0.32.5) |
-| **[Football Forecasting Lab](https://github.com/dk3yyyy/football_predictor)** | Leakage-resistant temporal ML evaluation with calibrated models, frozen holdouts, and honest bookmaker comparison. | [Source and evaluation](https://github.com/dk3yyyy/football_predictor) |
+### [Volyx Lens](https://volyxlens.pages.dev/)
+
+A macOS AI interview and coding copilot with screen and voice context, provider routing, secure native components, and best-effort capture exclusion.
+
+[Product](https://volyxlens.pages.dev/) · [Source](https://github.com/dk3yyyy/volyx-lens)
+
+### [Local Review Intelligence](https://github.com/dk3yyyy/local_AI_agent)
+
+Local-first RAG with adaptable CSV mapping, recoverable indexes, validated citations, and a measured semantic-vs-BM25 evaluation.
+
+[Source](https://github.com/dk3yyyy/local_AI_agent) · [Architecture](https://github.com/dk3yyyy/local_AI_agent/blob/main/docs/architecture.md) · [Results](https://github.com/dk3yyyy/local_AI_agent/tree/main/evaluation/results/v0.2.0-ollama-0.32.5)
+
+### [Football Forecasting Lab](https://github.com/dk3yyyy/football_predictor)
+
+Leakage-resistant temporal ML evaluation with calibrated models, frozen holdouts, and honest bookmaker comparison.
+
+[Source and evaluation](https://github.com/dk3yyyy/football_predictor)
 
 ## Open-source work
 
 Eight merged upstream contributions, selected for relevance to agent reliability, evaluation, tracing, and framework compatibility:
 
-| Project | Contribution |
-| --- | --- |
-| [OpenAI Agents SDK #3991](https://github.com/openai/openai-agents-python/pull/3991) | Bounded retry behavior for retryable pre-response WebSocket failures |
-| [Pydantic AI Harness #503](https://github.com/pydantic/pydantic-ai-harness/pull/503) | Preserved model retry context after host-side Code Mode session resets |
-| [Mellea #1471](https://github.com/generative-computing/mellea/pull/1471) | Deterministic tracing coverage for async spans, context propagation, and token usage |
-| [FastStream #2961](https://github.com/ag2ai/faststream/pull/2961) | FastAPI 0.140 compatibility with preserved AsyncAPI metadata |
+- **[OpenAI Agents SDK #3991](https://github.com/openai/openai-agents-python/pull/3991):** bounded retry behavior for retryable pre-response WebSocket failures
+- **[Pydantic AI Harness #503](https://github.com/pydantic/pydantic-ai-harness/pull/503):** preserved model retry context after host-side Code Mode session resets
+- **[Mellea #1471](https://github.com/generative-computing/mellea/pull/1471):** deterministic tracing coverage for async spans, context propagation, and token usage
+- **[FastStream #2961](https://github.com/ag2ai/faststream/pull/2961):** FastAPI 0.140 compatibility with preserved AsyncAPI metadata
 
 <details>
 <summary>View four additional merged contributions</summary>
