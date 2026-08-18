@@ -43,6 +43,18 @@ Leakage-resistant temporal ML evaluation with calibrated models, frozen holdouts
 
 [Source and evaluation](https://github.com/dk3yyyy/football_predictor)
 
+### [Career Ops](https://github.com/dk3yyyy/career-ops-hermes)
+
+Hermes-first local job-search operations: role discovery, evidence-backed applications, tracking, and interview preparation.
+
+[Source](https://github.com/dk3yyyy/career-ops-hermes)
+
+### [Evidence-First Article Pipeline](https://github.com/dk3yyyy/evidence-first-article-pipeline)
+
+Evidence-first workflow and CLI for researched, illustrated, agent-assisted technical articles.
+
+[Source](https://github.com/dk3yyyy/evidence-first-article-pipeline)
+
 ## Open-source work
 
 Eight merged upstream contributions, selected for relevance to agent reliability, evaluation, tracing, and framework compatibility:
