@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://joshua-nwachinemere.pages.dev">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/joshua-nwachinemere/">LinkedIn</a> ·
-  <a href="mailto:josh0victor@outlook.com">Email</a>
+  <a href="mailto:joshua0nwachinemere@gmail.com">Email</a>
 </p>
 
 ## What I build
@@ -27,7 +27,7 @@ I build the retrieval, context, provider-integration, evaluation, and backend re
 
 ### [Volyx Lens](https://volyxlens.pages.dev/)
 
-A macOS AI interview and coding copilot with screen and voice context, provider routing, secure native components, and best-effort capture exclusion.
+A cross-platform AI assistant for screen, voice and meeting context. You choose what it can see, capture starts on an explicit action, and keys stay in the main process. macOS, Windows and Linux.
 
 [Product](https://volyxlens.pages.dev/) · [Source](https://github.com/dk3yyyy/volyx-lens)
 
@@ -57,7 +57,7 @@ Evidence-first workflow and CLI for researched, illustrated, agent-assisted tech
 
 ## Open-source work
 
-Eight merged upstream contributions, selected for relevance to agent reliability, evaluation, tracing, and framework compatibility:
+Nine merged upstream contributions, selected for relevance to agent reliability, evaluation, tracing, and framework compatibility:
 
 - **[OpenAI Agents SDK #3991](https://github.com/openai/openai-agents-python/pull/3991):** bounded retry behavior for retryable pre-response WebSocket failures
 - **[Pydantic AI Harness #503](https://github.com/pydantic/pydantic-ai-harness/pull/503):** preserved model retry context after host-side Code Mode session resets
@@ -83,4 +83,4 @@ Eight merged upstream contributions, selected for relevance to agent reliability
 
 Building VolyxAI and independently developing Volyx Lens. Open to AI Engineer and ML Engineer opportunities.
 
-[josh0victor@outlook.com](mailto:josh0victor@outlook.com)
+[joshua0nwachinemere@gmail.com](mailto:joshua0nwachinemere@gmail.com)
