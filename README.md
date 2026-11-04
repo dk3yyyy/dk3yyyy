@@ -57,7 +57,7 @@ Evidence-first workflow and CLI for researched, illustrated, agent-assisted tech
 
 ## Open-source work
 
-Nine merged upstream contributions, selected for relevance to agent reliability, evaluation, tracing, and framework compatibility:
+Thirteen merged upstream contributions, selected for relevance to agent reliability, evaluation, tracing, and framework compatibility:
 
 - **[OpenAI Agents SDK #3991](https://github.com/openai/openai-agents-python/pull/3991):** bounded retry behavior for retryable pre-response WebSocket failures
 - **[Pydantic AI Harness #503](https://github.com/pydantic/pydantic-ai-harness/pull/503):** preserved model retry context after host-side Code Mode session resets
