@@ -17,7 +17,7 @@
 
 ## What I build
 
-I build the retrieval, context, provider-integration, evaluation, and backend reliability layers that turn model capability into useful systems.
+I build the retrieval, context, evaluation, and backend reliability layers that turn model capability into systems people can inspect and control.
 
 - **Applied AI:** grounded retrieval, multimodal inputs, voice workflows, structured outputs, and measurable evaluations
 - **Reliable services:** async Python, FastAPI, retries, caching, webhooks, and idempotent workflows
@@ -27,7 +27,7 @@ I build the retrieval, context, provider-integration, evaluation, and backend re
 
 ### [Volyx Lens](https://volyxlens.pages.dev/)
 
-A cross-platform AI assistant for screen, voice and meeting context. You choose what it can see, capture starts on an explicit action, and keys stay in the main process. macOS, Windows and Linux.
+A cross-platform AI assistant for screen, voice, and meeting context. You choose what it can see, capture starts only when you ask, and keys stay in the main process. macOS, Windows, and Linux.
 
 [Product](https://volyxlens.pages.dev/) · [Source](https://github.com/dk3yyyy/volyx-lens)
 
@@ -39,9 +39,12 @@ Local-first RAG with adaptable CSV mapping, recoverable indexes, validated citat
 
 ### [Football Forecasting Lab](https://github.com/dk3yyyy/football_predictor)
 
-Leakage-resistant temporal ML evaluation with calibrated models, frozen holdouts, and honest bookmaker comparison.
+Leakage-resistant temporal ML evaluation with calibrated models, frozen holdouts, and a fair comparison against bookmaker odds.
 
 [Source](https://github.com/dk3yyyy/football_predictor) · [Evaluation](https://github.com/dk3yyyy/football_predictor#verified-evaluation-snapshot)
+
+<details>
+<summary>More selected work</summary>
 
 ### [Career Ops](https://github.com/dk3yyyy/career-ops-hermes)
 
@@ -51,13 +54,15 @@ Hermes-first local job-search operations: role discovery, evidence-backed applic
 
 ### [Evidence-First Article Pipeline](https://github.com/dk3yyyy/evidence-first-article-pipeline)
 
-Evidence-first workflow and CLI for researched, illustrated, agent-assisted technical articles.
+A workflow and CLI for researched, illustrated, agent-assisted technical articles, with citations checked before publication.
 
 [Source](https://github.com/dk3yyyy/evidence-first-article-pipeline)
 
+</details>
+
 ## Open-source work
 
-Thirteen merged upstream contributions, grouped by how they improve agent reliability, evaluation, tracing, and framework compatibility:
+Thirteen merged upstream contributions across nine projects, grouped by how they improve agent reliability, evaluation, tracing, and framework compatibility:
 
 - **[OpenAI Agents SDK #3991](https://github.com/openai/openai-agents-python/pull/3991):** bounded retry behavior for retryable pre-response WebSocket failures
 - **[Pydantic AI Harness #503](https://github.com/pydantic/pydantic-ai-harness/pull/503):** preserved model retry context after host-side Code Mode session resets
@@ -86,6 +91,6 @@ Thirteen merged upstream contributions, grouped by how they improve agent reliab
 
 ## Current
 
-Building VolyxAI and independently developing Volyx Lens. Open to AI Engineer and ML Engineer opportunities.
+Building VolyxAI and Volyx Lens. Open to AI Engineer and ML Engineer opportunities.
 
 [joshua0nwachinemere@gmail.com](mailto:joshua0nwachinemere@gmail.com)
