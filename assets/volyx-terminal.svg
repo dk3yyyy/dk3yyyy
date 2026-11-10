@@ -75,11 +75,9 @@
       <text x="190" y="315" fill="#6ee7b7" font-size="16">Python</text>
       <text x="266" y="315" fill="#30363d">|</text>
       <text x="286" y="315" fill="#6ee7b7" font-size="16">Building VolyxAI</text>
-      <text x="447" y="315" fill="#30363d">|</text>
-      <text x="467" y="315" fill="#6ee7b7" font-size="16">0.0.0.0</text>
 
       <circle class="pulse" cx="61" cy="348" r="7" fill="#4ade80" filter="url(#greenGlow)"/>
-      <text x="80" y="354" fill="#4ade80" font-size="14">open to AI / ML engineering roles</text>
+      <text x="80" y="354" fill="#4ade80" font-size="14">open to AI/ML engineering roles</text>
 
       <rect x="52" y="384" width="625" height="142" rx="5" fill="#00ff88" fill-opacity=".025" stroke="#00ff88" stroke-opacity=".14"/>
       <text x="70" y="412" fill="#00ff88" font-size="15" font-weight="700">❯ cat about.txt</text>

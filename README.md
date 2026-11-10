@@ -41,7 +41,7 @@ Local-first RAG with adaptable CSV mapping, recoverable indexes, validated citat
 
 Leakage-resistant temporal ML evaluation with calibrated models, frozen holdouts, and honest bookmaker comparison.
 
-[Source and evaluation](https://github.com/dk3yyyy/football_predictor)
+[Source](https://github.com/dk3yyyy/football_predictor) · [Evaluation](https://github.com/dk3yyyy/football_predictor#verified-evaluation-snapshot)
 
 ### [Career Ops](https://github.com/dk3yyyy/career-ops-hermes)
 
@@ -57,7 +57,7 @@ Evidence-first workflow and CLI for researched, illustrated, agent-assisted tech
 
 ## Open-source work
 
-Thirteen merged upstream contributions, selected for relevance to agent reliability, evaluation, tracing, and framework compatibility:
+Thirteen merged upstream contributions, grouped by how they improve agent reliability, evaluation, tracing, and framework compatibility:
 
 - **[OpenAI Agents SDK #3991](https://github.com/openai/openai-agents-python/pull/3991):** bounded retry behavior for retryable pre-response WebSocket failures
 - **[Pydantic AI Harness #503](https://github.com/pydantic/pydantic-ai-harness/pull/503):** preserved model retry context after host-side Code Mode session resets
@@ -65,8 +65,13 @@ Thirteen merged upstream contributions, selected for relevance to agent reliabil
 - **[FastStream #2961](https://github.com/ag2ai/faststream/pull/2961):** FastAPI 0.140 compatibility with preserved AsyncAPI metadata
 
 <details>
-<summary>View four additional merged contributions</summary>
+<summary>View nine additional merged contributions</summary>
 
+- **[FastStream #2984](https://github.com/ag2ai/faststream/pull/2984):** stop handler exceptions leaking under AnyIO
+- **[FastStream #2976](https://github.com/ag2ai/faststream/pull/2976):** consume existing Redis entries in new consumer groups
+- **[Pydantic AI Harness #520](https://github.com/pydantic/pydantic-ai-harness/pull/520):** decode URL-safe binary media payloads
+- **[Mellea #1469](https://github.com/generative-computing/mellea/pull/1469):** stop generation workers on stream timeout
+- **[Microsoft Agent Framework #7391](https://github.com/microsoft/agent-framework/pull/7391):** ignore excluded tool results during Python compaction
 - [Apache Arrow Rust #10486](https://github.com/apache/arrow-rs/pull/10486)
 - [Altair #4089](https://github.com/vega/altair/pull/4089)
 - [FastStream FastAPI #2](https://github.com/faststream-community/faststream_fastapi/pull/2)

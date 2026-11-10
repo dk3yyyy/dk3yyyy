@@ -16,7 +16,7 @@
   <text x="18" y="108" fill="#ff294d" opacity=".2" font-size="44" font-weight="800" class="red">JOSHUA</text><text x="18" y="108" class="c cyan" opacity=".25" font-size="44" font-weight="800">JOSHUA</text><text x="18" y="108" class="g" filter="url(#glow)" font-size="44" font-weight="800">JOSHUA</text>
   <text x="18" y="138" class="w" font-size="25" font-weight="700">NWACHINEMERE</text>
   <text x="18" y="160" class="c small">AI Engineer</text><text x="91" y="160" class="dim small">|</text><text x="101" y="160" class="g small">Python</text><text x="148" y="160" class="dim small">|</text><text x="158" y="160" class="w small">Building VolyxAI</text>
-  <circle cx="21" cy="179" r="4" class="g pulse"/><text x="32" y="182" class="g small">open to AI / ML engineering roles</text>
+  <circle cx="21" cy="179" r="4" class="g pulse"/><text x="32" y="182" class="g small">open to AI/ML engineering roles</text>
 
   <rect x="14" y="200" width="362" height="119" rx="3" fill="#06100d" stroke="#00ff88" stroke-opacity=".14"/><text x="26" y="219" class="g label">❯ cat about.txt</text><line x1="26" y1="228" x2="364" y2="228" stroke="#00ff88" stroke-opacity=".1"/><text x="26" y="248" class="w body">I build the retrieval, routing, evaluation,</text><text x="26" y="265" class="w body">multimodal input, and reliability layers</text><text x="26" y="282" class="w body">that turn model capability into useful systems.</text><text x="26" y="305" class="g tiny">FOCUS → RAG · multimodal AI · evals · async systems</text>
 
