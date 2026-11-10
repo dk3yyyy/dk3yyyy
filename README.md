@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://joshua-nwachinemere.pages.dev">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/joshua-nwachinemere/">LinkedIn</a> ·
+  <a href="https://orcid.org/0009-0000-7388-3586">ORCID</a> ·
   <a href="mailto:joshua0nwachinemere@gmail.com">Email</a>
 </p>
 
